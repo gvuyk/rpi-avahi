@@ -1,0 +1,14 @@
+{
+  "name": "rpi-avahi",
+  "version": "1.0.0",
+  "description": "Container that manages Avahi services based on env variables from other containers on the same host",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerardo Vuyk",
+  "license": "MIT",
+  "dependencies": {
+    "dockerode": "^2.2.10"
+  }
+}
